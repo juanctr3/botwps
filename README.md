@@ -1,0 +1,2 @@
+# botwps
+plugin gravity
